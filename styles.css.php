@@ -5,6 +5,7 @@ header("Content-type:text/css");
 }
 .testclass{
 color:red;
-disabled:disabled
+disabled:disabled;
+
 }
 

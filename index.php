@@ -14,7 +14,7 @@ $disableRemoveParam = "testclass";
 <body> 
 
 <input type="button" value="email" class='" . $disableRemoveParam . "' />
-<p class='email'>asdasda</p>
+<p class='email'>asd</p>
 
 
 </body>
