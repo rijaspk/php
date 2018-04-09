@@ -3,8 +3,7 @@
 <head>
 <link rel="stylesheet" type="text/css" href="styles.css.php">
 <?php
-
- $disableRemoveParam = "testclass";
+$disableRemoveParam = "testclass";
 ?>
 
 <style>
