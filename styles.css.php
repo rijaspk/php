@@ -2,9 +2,10 @@
 header("Content-type:text/css");
 
 ?>
+.var{
+background-color:grey;
 }
 .testclass{
-color:red;
-disabled:disabled
+background-color:red;
 }
 

@@ -3,7 +3,8 @@
 <head>
 <link rel="stylesheet" type="text/css" href="styles.css.php">
 <?php
-$disableRemoveParam = "testclass";
+
+$var = "class='is_disableRemoveParam' disabled=disabled";
 ?>
 
 <style>
@@ -13,8 +14,8 @@ $disableRemoveParam = "testclass";
 </head>
 <body> 
 
-<input type="button" value="email" class='" . $disableRemoveParam . "' />
-<p class='email'>asdasda</p>
+<input type="button" value="email"  <?php echo $var; ?>/>
+<p class='email'>asdasda0213</p>
 
 
 </body>
